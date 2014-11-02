@@ -1,0 +1,257 @@
+parti bazinda secime girilen ilce sayisi (max 1353):
+AK PARTİ 1343
+MHP 1319
+SAADET 1318
+CHP 1120
+BTP 917
+BBP 733
+DP 387
+DSP 337
+HDP 245
+DBP 228
+İP 187
+MİLLET 184
+LDP 107
+HÜDA PAR 80
+DYP 72
+HEPAR 71
+HAK-PAR 49
+TURK PARTİ (MMP) 39
+YURT-P 22
+ÖDP 10
+TKP 7
+HKP 2
+
+
+
+
+bazi dosyalar ici bos oldugundan veya aynilari bulundugundan silindi.
+
+ici bos dosyalar:
+sspsYerel-31-10-2014_15-13.normal.xls
+sspsYerel-31-10-2014_16-17.normal.xls
+sspsYerel-31-10-2014_17-02.normal.xls
+sspsYerel-31-10-2014_17-23.normal.xls
+
+tekrarlanan dosyalar:
+sspsYerel-34-135-31-10-2014_14-54.normal.xls
+sspsYerel-34-223-31-10-2014_14-55.normal.xls
+sspsYerel-34-225-31-10-2014_14-55.normal.xls
+sspsYerel-34-233-31-10-2014_14-55.normal.xls
+sspsYerel-34-3-31-10-2014_14-40.normal.xls
+sspsYerel-34-3-31-10-2014_14-42.normal.xls
+sspsYerel-34-902-31-10-2014_14-55.normal.xls
+sspsYerel-34-908-31-10-2014_14-54.normal.xls
+sspsYerel-34-963-31-10-2014_14-40.normal.xls
+sspsYerel-34-963-31-10-2014_14-42.normal.xls
+sspsYerel-34-964-31-10-2014_14-42.normal.xls
+sspsYerel-34-967-31-10-2014_14-54.normal.xls
+sspsYerel-34-968-31-10-2014_14-54.normal.xls
+sspsYerel-59-1052-31_10_2014_15_06.normal.xls
+sspsYerel-59-148-31-10-2014_16-46.normal.xls
+sspsYerel-59-148-31_10_2014_14_20.normal.xls
+sspsYerel-59-148-31_10_2014_14_35.normal.xls
+sspsYerel-59-148-31_10_2014_14_44.normal(1).xls
+sspsYerel-59-148-31_10_2014_14_44.normal.xls
+sspsYerel-59-148-31_10_2014_15_00.normal.xls
+sspsYerel-59-148-31_10_2014_15_01.normal.xls
+sspsYerel-59-156-31_10_2014_14_20.normal.xls
+sspsYerel-59-285-31_10_2014_15_07.normal.xls
+sspsYerel-59-285-31_10_2014_15_37.normal.xls
+sspsYerel-22-358-31_10_2014_10_55.normal.xls
+sspsYerel-35-343-31-10-2014_15-01.normal.xls
+sspsYerel-35-371-31-10-2014_15-04.normal.xls
+sspsYerel-54-1004-31_10_2014_14_05.normal.xls
+sspsYerel-54-1005-31_10_2014_14_05.normal.xls
+sspsYerel-54-1006-31_10_2014_14_05.normal.xls
+sspsYerel-54-1007-31_10_2014_14_07.normal.xls
+sspsYerel-54-23-31_10_2014_14_05.normal.xls
+sspsYerel-54-248-31_10_2014_14_06.normal.xls
+sspsYerel-54-288-31_10_2014_14_06.normal.xls
+sspsYerel-54-337-31_10_2014_14_06.normal.xls
+sspsYerel-54-348-31_10_2014_14_06.normal.xls
+sspsYerel-54-488-31_10_2014_14_07.normal.xls
+sspsYerel-54-711-31_10_2014_14_06.normal.xls
+sspsYerel-54-726-31_10_2014_14_06.normal.xls
+sspsYerel-54-740-31_10_2014_14_07.normal.xls
+sspsYerel-54-818-31_10_2014_14_05.normal.xls
+sspsYerel-54-848-31_10_2014_14_06.normal.xls
+sspsYerel-54-879-31_10_2014_14_07.normal.xls
+sspsYerel-42-720-31-10-2014_15-38.normal.xls
+sspsYerel-32-195-31-10-2014_14-32.normal (1).xls
+sspsYerel-32-238-31-10-2014_14-32.normal.xls
+sspsYerel-32-508-31-10-2014_14-34.normal.xls
+sspsYerel-32-53-31-10-2014_14-16.normal.xls
+sspsYerel-32-53-31-10-2014_14-32.normal.xls
+sspsYerel-32-648-31-10-2014_14-32.normal.xls
+sspsYerel-1-117-31_10_2014_09_05.normal.xls
+sspsYerel-1-650-31_10_2014_15_34.normal.xls
+sspsYerel-1-982-31_10_2014_09_05.normal.xls
+sspsYerel-33-991-31-10-2014_14-37.normal.xls
+sspsYerel-33-992-31-10-2014_14-38.normal.xls
+sspsYerel-31-1031-31_10_2014_13_49.normal.xls
+sspsYerel-31-1033-31-10-2014_14-13.normal.xls
+sspsYerel-31-31-31_10_2014_13_49.normal.xls
+sspsYerel-31-310-31-10-2014_14-14.normal.xls
+sspsYerel-31-310-31-10-2014_14-15.normal.xls
+sspsYerel-71-166-31-10-2014_17-44.normal.xls
+sspsYerel-71-773-31-10-2014_17-43.normal.xls
+sspsYerel-71-775-31-10-2014_17-43.normal.xls
+sspsYerel-71-794-31-10-2014_17-44.normal.xls
+sspsYerel-51-100-31_10_2014_13_56.normal(1).xls
+sspsYerel-51-100-31_10_2014_13_56.normal(2).xls
+sspsYerel-51-100-31_10_2014_13_56.normal(3).xls
+sspsYerel-51-100-31_10_2014_13_56.normal.xls
+sspsYerel-51-123-31_10_2014_13_56.normal.xls
+sspsYerel-51-437-31_10_2014_13_57.normal(1).xls
+sspsYerel-51-437-31_10_2014_13_57.normal(2).xls
+sspsYerel-51-437-31_10_2014_13_57.normal(3).xls
+sspsYerel-51-437-31_10_2014_13_57.normal.xls
+sspsYerel-51-437-31_10_2014_13_58.normal(1).xls
+sspsYerel-51-437-31_10_2014_13_58.normal(2).xls
+sspsYerel-51-437-31_10_2014_13_58.normal(3).xls
+sspsYerel-51-437-31_10_2014_13_58.normal(4).xls
+sspsYerel-51-437-31_10_2014_13_58.normal(5).xls
+sspsYerel-51-437-31_10_2014_13_58.normal(6).xls
+sspsYerel-51-437-31_10_2014_13_58.normal.xls
+sspsYerel-51-437-31_10_2014_13_59.normal(1).xls
+sspsYerel-51-437-31_10_2014_13_59.normal(2).xls
+sspsYerel-51-437-31_10_2014_13_59.normal(3).xls
+sspsYerel-51-437-31_10_2014_13_59.normal.xls
+sspsYerel-51-593-31_10_2014_13_59.normal.xls
+sspsYerel-51-769-31_10_2014_13_55.normal(1).xls
+sspsYerel-51-769-31_10_2014_13_55.normal(2).xls
+sspsYerel-51-769-31_10_2014_13_55.normal.xls
+sspsYerel-51-797-31_10_2014_13_56.normal(1).xls
+sspsYerel-51-797-31_10_2014_13_56.normal.xls
+sspsYerel-51-797-31_10_2014_13_57.normal(1).xls
+sspsYerel-51-797-31_10_2014_13_57.normal.xls
+sspsYerel-50-172-31_10_2014_13_53.normal(1).xls
+sspsYerel-50-172-31_10_2014_13_53.normal.xls
+sspsYerel-50-264-31_10_2014_13_53.normal.xls
+sspsYerel-50-271-31_10_2014_13_53.normal.xls
+sspsYerel-50-378-31_10_2014_13_53.normal.xls
+sspsYerel-50-436-31_10_2014_13_53.normal.xls
+sspsYerel-50-436-31_10_2014_13_54.normal(1).xls
+sspsYerel-50-436-31_10_2014_13_54.normal(2).xls
+sspsYerel-50-436-31_10_2014_13_54.normal(3).xls
+sspsYerel-50-436-31_10_2014_13_54.normal(4).xls
+sspsYerel-50-436-31_10_2014_13_54.normal(5).xls
+sspsYerel-50-436-31_10_2014_13_54.normal(6).xls
+sspsYerel-50-436-31_10_2014_13_54.normal.xls
+sspsYerel-50-436-31_10_2014_13_55.normal.xls
+sspsYerel-50-54-31_10_2014_13_52.normal(1).xls
+sspsYerel-50-54-31_10_2014_13_52.normal(2).xls
+sspsYerel-50-54-31_10_2014_13_52.normal.xls
+sspsYerel-50-54-31_10_2014_13_53.normal.xls
+sspsYerel-50-600-31_10_2014_13_55.normal(1).xls
+sspsYerel-50-600-31_10_2014_13_55.normal.xls
+sspsYerel-50-642-31_10_2014_13_52.normal(1).xls
+sspsYerel-50-642-31_10_2014_13_52.normal(2).xls
+sspsYerel-50-642-31_10_2014_13_52.normal.xls
+sspsYerel-38-116-31-10-2014_15-18.normal.xls
+sspsYerel-38-645-31-10-2014_15-18.normal.xls
+sspsYerel-38-756-31-10-2014_15-21.normal.xls
+sspsYerel-58-180-31_10_2014_14_17.normal.xls
+sspsYerel-58-239-31_10_2014_14_17.normal(1).xls
+sspsYerel-58-239-31_10_2014_14_17.normal(2).xls
+sspsYerel-58-239-31_10_2014_14_17.normal.xls
+sspsYerel-58-270-31_10_2014_14_18.normal.xls
+sspsYerel-58-273-31_10_2014_14_18.normal.xls
+sspsYerel-58-304-31_10_2014_14_18.normal.xls
+sspsYerel-58-326-31_10_2014_14_18.normal.xls
+sspsYerel-58-377-31_10_2014_14_18.normal.xls
+sspsYerel-58-521-31_10_2014_14_18.normal.xls
+sspsYerel-58-521-31_10_2014_14_19.normal.xls
+sspsYerel-58-539-31_10_2014_14_19.normal.xls
+sspsYerel-58-543-31_10_2014_14_19.normal(1).xls
+sspsYerel-58-543-31_10_2014_14_19.normal(2).xls
+sspsYerel-58-543-31_10_2014_14_19.normal.xls
+sspsYerel-58-624-31_10_2014_14_19.normal.xls
+sspsYerel-58-624-31_10_2014_14_20.normal.xls
+sspsYerel-58-631-31_10_2014_14_20.normal.xls
+sspsYerel-58-763-31_10_2014_14_13.normal.xls
+sspsYerel-58-763-31_10_2014_14_16.normal.xls
+sspsYerel-58-768-31_10_2014_14_13.normal.xls
+sspsYerel-58-768-31_10_2014_14_14.normal.xls
+sspsYerel-58-768-31_10_2014_14_16.normal.xls
+sspsYerel-58-768-31_10_2014_14_17.normal.xls
+sspsYerel-58-806-31_10_2014_14_17.normal.xls
+sspsYerel-58-820-31-10-2014_16-42.normal.xls
+sspsYerel-58-820-31_10_2014_14_18.normal.xls
+sspsYerel-58-884-31_10_2014_14_19.normal.xls
+sspsYerel-37-119-31-10-2014_15-13.normal.xls
+sspsYerel-57-103-31_10_2014_14_12.normal.xls
+sspsYerel-57-212-31_10_2014_14_12.normal.xls
+sspsYerel-57-246-31_10_2014_14_12.normal.xls
+sspsYerel-57-520-31_10_2014_14_13.normal.xls
+sspsYerel-57-55-31_10_2014_14_12.normal.xls
+sspsYerel-57-586-31_10_2014_14_13.normal.xls
+sspsYerel-57-803-31_10_2014_14_12.normal(1).xls
+sspsYerel-57-803-31_10_2014_14_12.normal.xls
+sspsYerel-57-874-31_10_2014_14_13.normal.xls
+sspsYerel-55-1001-31_10_2014_14_08.normal.xls
+sspsYerel-55-1002-31_10_2014_14_08.normal.xls
+sspsYerel-55-1003-31_10_2014_14_08.normal.xls
+sspsYerel-55-1028-31_10_2014_14_10.normal.xls
+sspsYerel-55-132-31_10_2014_14_08.normal.xls
+sspsYerel-55-25-31_10_2014_14_07.normal.xls
+sspsYerel-55-283-31_10_2014_14_08.normal.xls
+sspsYerel-55-347-31_10_2014_14_09.normal.xls
+sspsYerel-55-394-31_10_2014_14_09.normal.xls
+sspsYerel-55-569-31_10_2014_14_09.normal.xls
+sspsYerel-55-605-31_10_2014_14_09.normal.xls
+sspsYerel-55-63-31_10_2014_14_08.normal.xls
+sspsYerel-55-656-31_10_2014_14_07.normal.xls
+sspsYerel-55-731-31_10_2014_14_09.normal.xls
+sspsYerel-55-742-31_10_2014_14_09.normal.xls
+sspsYerel-55-772-31_10_2014_14_08.normal.xls
+sspsYerel-55-886-31_10_2014_14_09.normal.xls
+sspsYerel-52-1036-31_10_2014_13_59.normal.xls
+sspsYerel-52-19-31_10_2014_13_59.normal.xls
+sspsYerel-52-226-31_10_2014_14_00.normal.xls
+sspsYerel-52-255-31_10_2014_14_00.normal.xls
+sspsYerel-52-375-31_10_2014_14_01.normal.xls
+sspsYerel-52-386-31_10_2014_14_01.normal.xls
+sspsYerel-52-418-31_10_2014_14_02.normal.xls
+sspsYerel-52-466-31_10_2014_14_02.normal.xls
+sspsYerel-52-57-31_10_2014_14_00.normal.xls
+sspsYerel-52-589-31_10_2014_14_02.normal.xls
+sspsYerel-52-599-31_10_2014_14_02.normal.xls
+sspsYerel-52-688-31_10_2014_14_00.normal.xls
+sspsYerel-52-690-31_10_2014_14_01.normal.xls
+sspsYerel-52-784-31_10_2014_14_00.normal.xls
+sspsYerel-52-790-31_10_2014_14_00.normal.xls
+sspsYerel-52-793-31_10_2014_14_00.normal.xls
+sspsYerel-52-840-31_10_2014_14_01.normal.xls
+sspsYerel-52-843-31_10_2014_14_01.normal.xls
+sspsYerel-52-844-31_10_2014_14_01.normal.xls
+sspsYerel-53-126-31_10_2014_14_02.normal.xls
+sspsYerel-53-139-31_10_2014_14_03.normal(1).xls
+sspsYerel-53-139-31_10_2014_14_03.normal(2).xls
+sspsYerel-53-139-31_10_2014_14_03.normal.xls
+sspsYerel-53-230-31_10_2014_14_03.normal.xls
+sspsYerel-53-302-31_10_2014_14_04.normal.xls
+sspsYerel-53-323-31_10_2014_14_04.normal.xls
+sspsYerel-53-45-31_10_2014_14_02.normal(1).xls
+sspsYerel-53-45-31_10_2014_14_02.normal.xls
+sspsYerel-53-462-31_10_2014_14_04.normal.xls
+sspsYerel-53-479-31_10_2014_14_04.normal(1).xls
+sspsYerel-53-479-31_10_2014_14_04.normal.xls
+sspsYerel-53-479-31_10_2014_14_05.normal(1).xls
+sspsYerel-53-479-31_10_2014_14_05.normal.xls
+sspsYerel-53-689-31_10_2014_14_03.normal.xls
+sspsYerel-53-801-31_10_2014_14_03.normal.xls
+sspsYerel-53-836-31_10_2014_14_03.normal.xls
+sspsYerel-53-842-31_10_2014_14_04.normal.xls
+sspsYerel-56-215-31_10_2014_14_10.normal.xls
+sspsYerel-56-388-31_10_2014_14_10.normal.xls
+sspsYerel-56-388-31_10_2014_14_11.normal.xls
+sspsYerel-56-468-31_10_2014_14_11.normal(1).xls
+sspsYerel-56-468-31_10_2014_14_11.normal.xls
+sspsYerel-56-513-31_10_2014_14_11.normal(1).xls
+sspsYerel-56-513-31_10_2014_14_11.normal.xls
+sspsYerel-56-555-31_10_2014_14_11.normal.xls
+sspsYerel-56-771-31_10_2014_14_11.normal.xls
+sspsYerel-56-78-31_10_2014_14_10.normal(1).xls
+sspsYerel-56-78-31_10_2014_14_10.normal(2).xls
