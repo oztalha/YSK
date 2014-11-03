@@ -14,4 +14,4 @@ Codes are commented, short deescriptions of the files are as follows:
 - **kd_oylar.py**: Recalculates parties' vote shares weighted by 26 regions' GDP.
 - **kd_oylar.csv**: GDP per region weighted votes resulting file.
 - **yerel2014.csv**: Official ballot-box level results of the top ten parties' in Turkish local elections, 2014.
-- **Yerel-GSKD-TR.png**: Pie chart of recalculated vote shares of parties if GDP voted not people. Replicated what [the Guardian](http://www.economist.com/blogs/graphicdetail/2015/10/daily-chart-18) did for Brazil.
+- **Yerel-GSKD-TR.png (Turkish Title)** and **GDP-Weighted-TR-2014-local.png (English Title)**: Pie chart of recalculated vote shares of parties if GDP voted not people. Replicated what [the Guardian](http://www.economist.com/blogs/graphicdetail/2015/10/daily-chart-18) did for Brazil.
