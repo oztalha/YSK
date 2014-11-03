@@ -10,6 +10,8 @@ with open('plaka.tsv') as plakalar:
         il, kod = plaka.split('\t')
         tr[il.decode('utf8').strip()] = kod.strip()
 
+# GSKD datasi: Tuik Nisan 2014 raporu, Ek 5 (sayfa 57)
+# http://www.tuik.gov.tr/jsp/duyuru/upload/yayinrapor/GSKD_Bolgesel_2004-2011.pdf
 gskd = []
 with open('GSKD.csv', 'rb') as f:
     reader = csv.reader(f)
@@ -26,16 +28,25 @@ for i in range(2,len(gskd)):
     for il in iller:
         print il
         iloy = get_votes(il,df)
+        #iloy = get_shares(il,df)
         oylar = np.add(oylar, iloy)
-    #kd = int(float(gskd[i][16])*1000)
     bolge_kd_oylar = oylar*float(gskd[i][16])
     kd_oylar = np.vstack((kd_oylar,bolge_kd_oylar))
 
 #ilk satir manuel olarak degistirildi
-np.savetxt('kd_oylar.csv',kd_oylar,delimiter=',',fmt="%d")
+np.savetxt('kd_oylar.csv',kd_oylar,delimiter=',',fmt="%f")
+#np.savetxt('kd_shares.csv',kd_oylar,delimiter=',',fmt="%f")
+
 
 def get_votes(il,df):    
     oylar = []
     for parti in df.columns[13:]:
         oylar.append(df[df.IL_ID == int(tr[il])][parti].sum())
+    return np.asarray(oylar)
+
+
+def get_shares(il,df):
+    oylar = []
+    for parti in df.columns[13:]:
+        oylar.append(float(df[df.IL_ID == int(tr[il])][parti].sum()) / df[df.IL_ID == int(tr[il])][u'Ge\xe7erli Oy Pusulalar\u0131n\u0131n Toplam\u0131'].sum())
     return np.asarray(oylar)
