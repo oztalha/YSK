@@ -33,7 +33,7 @@ for i in range(2,len(gskd)):
     bolge_kd_oylar = oylar*float(gskd[i][16])
     kd_oylar = np.vstack((kd_oylar,bolge_kd_oylar))
 
-#ilk satir manuel olarak degistirildi
+#ilk satir ve sutun sonradan eklendi
 np.savetxt('kd_oylar.csv',kd_oylar,delimiter=',',fmt="%f")
 #np.savetxt('kd_shares.csv',kd_oylar,delimiter=',',fmt="%f")
 
