@@ -8,11 +8,8 @@ Codes are commented, short deescriptions of the files are as follows:
 
 - **scrape.py**: Scrapes Turkish local elections, 2014 results from ysk.gov.tr (official election institute).
 - **merge.py**: Cleans and reformats the collected data and combine them into a single CSV file.
-<<<<<<< HEAD
 - **plaka.tsv**: A helper file to map the cities to their traffic codes.                                                                                                
-=======
 - **plaka.tsv**: A helper file to map the cities to their traffic codes.
->>>>>>> e376ebef0ee96c37b355471bfe5ea86efa69121a
 - **GSKD.csv**: GDP per capita table for 26 regions (extracted from [TUIK April 2014 report](http://www.tuik.gov.tr/jsp/duyuru/upload/yayinrapor/GSKD_Bolgesel_2004-2011.pdf)).
 - **kd_oylar.py**: Recalculates parties' vote shares weighted by 26 regions' GDP.
 - **kd_oylar.csv**: GDP per region weighted votes resulting file.
